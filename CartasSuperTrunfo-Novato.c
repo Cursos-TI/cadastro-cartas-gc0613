@@ -10,7 +10,7 @@ int main() {
   //Carta 1
   char estado;
   char codigo_carta[4];
-  char nome_cidade[50];
+  char nome_pais[50];
   int populacao;
   float area;
   float pib;
@@ -19,7 +19,7 @@ int main() {
   //Carta 2
   char estado2;
   char codigo_carta2[4];
-  char nome_cidade2[50];
+  char nome_pais2[50];
   int populacao2;
   float area2;
   float pib2;
@@ -29,7 +29,7 @@ int main() {
 
   char estado3;
   char codigo_carta3[4];
-  char nome_cidade3[50];
+  char nome_pais3[50];
   int populacao3;
   float area3;
   float pib3;
@@ -39,7 +39,7 @@ int main() {
   
   char estado4;
   char codigo_carta4[4];
-  char nome_cidade4[50];
+  char nome_pais4[50];
   int populacao4;
   float area4;
   float pib4;
