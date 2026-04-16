@@ -62,10 +62,10 @@ int main() {
   scanf(" %c", &estado2);
 
   printf("Código:");
-  scanf("%s", &codigo2);
+  scanf("%s", codigo2);
 
   printf("Cidade:");
-  scanf(" [^\n]", &cidade2);
+  scanf(" %[^\n]", cidade2);
 
   printf("População:"); 
   scanf(" %d", &populacao2);
